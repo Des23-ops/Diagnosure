@@ -1,2 +1,5 @@
 # Diagnosure
-an AI health assistant that explains symptoms, medicines and wellbeing in plain language. Static site on GitHub Pages with a secure Cloudflare Worker backend.
+AI health information chat. Static site (GitHub Pages) + Cloudflare Worker proxy that keeps the API key secret.
+
+Files: `index.html` (the website), `worker.js` (the backend proxy).
+Not medical advice.
